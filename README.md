@@ -1,2 +1,2 @@
 # My name is Shlok Manadhar
-# Intrested in computer 
+Intrested in computer 
